@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "go.useLanguageServer": true,
+    "go.lintOnSave": "file",
+    "go.testFlags": [
+        "-v",
+        "-count=1"
+    ]
+}
